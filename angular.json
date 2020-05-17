@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Resistencias"
+    }
+  },
+  "defaultProject": "Resistencias",
+  "cli": {
+    "analytics": "c4822f04-768d-4077-a7d4-d3411d6b196f"
+  }
 }
